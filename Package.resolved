@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "Segment",
-        "repositoryURL": "https://github.com/segmentio/analytics-swift.git",
+        "package": "SegmentDeprecated",
+        "repositoryURL": "https://github.com/SaiKhal/SegmentDeprecated",
         "state": {
           "branch": null,
-          "revision": "76316a5009502de6e7c2788c295e9afc68793cd3",
-          "version": "1.1.2"
+          "revision": "49531e029ac49d1e61146016faa595d1ddf96b1f",
+          "version": "1.0.0"
         }
       },
       {

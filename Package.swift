@@ -22,7 +22,7 @@ let package = Package(
         .package(
             name: "SegmentDeprecated",
             url: "https://github.com/SaiKhal/SegmentDeprecated",
-            from: "1.1.2"
+            from: "1.0.0"
         )
     ],
     targets: [
